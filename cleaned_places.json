@@ -4596,12 +4596,6 @@
     "longitude":44.3936062
   },
   {
-    "name":".",
-    "type":"مجمعات تجارية",
-    "latitude":33.307632,
-    "longitude":44.4486998
-  },
-  {
     "name":"Said mamul shopping center مجمع سيد مأمول التجاري",
     "type":"مجمعات تجارية",
     "latitude":33.2988924,
@@ -6172,12 +6166,6 @@
     "type":"مطاعم",
     "latitude":33.3749273,
     "longitude":44.3660763
-  },
-  {
-    "name":".",
-    "type":"مطاعم",
-    "latitude":33.3788702,
-    "longitude":44.3637853
   },
   {
     "name":"مطعم حساني دجاج بالتنور",
@@ -11166,12 +11154,6 @@
     "longitude":44.2887723
   },
   {
-    "name":".",
-    "type":"صالات رياضية",
-    "latitude":33.3373916,
-    "longitude":44.2731749
-  },
-  {
     "name":"جيم اون ماكس",
     "type":"صالات رياضية",
     "latitude":33.3310539,
@@ -11308,6 +11290,12 @@
     "type":"مكتبات",
     "latitude":33.3363063,
     "longitude":44.2713679
+  },
+  {
+    "name":"مكتبة يونس",
+    "type":"مكتبات",
+    "latitude":33.3565785,
+    "longitude":44.2724069
   },
   {
     "name":"Popular Amiriya Market",
@@ -13576,12 +13564,6 @@
     "type":"مراكز تجميل",
     "latitude":33.3558505,
     "longitude":44.4200286
-  },
-  {
-    "name":".",
-    "type":"مراكز تجميل",
-    "latitude":33.2830509,
-    "longitude":44.2980574
   },
   {
     "name":"مكتبة المنتظر",
@@ -31840,12 +31822,6 @@
     "type":"صالونات",
     "latitude":33.3317182,
     "longitude":44.3035768
-  },
-  {
-    "name":"ً",
-    "type":"صالونات",
-    "latitude":33.3331424,
-    "longitude":44.325067
   },
   {
     "name":"حلاقة علي عماد",
@@ -50290,12 +50266,6 @@
     "type":"معاهد",
     "latitude":33.3723593,
     "longitude":44.3395231
-  },
-  {
-    "name":"H",
-    "type":"معاهد",
-    "latitude":33.4008046,
-    "longitude":44.3576737
   },
   {
     "name":"Higher Institute for the diagnosis of infertility and assisted reproduction techniques",
