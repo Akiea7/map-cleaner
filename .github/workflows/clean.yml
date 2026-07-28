@@ -11,15 +11,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      
       - uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      - run: pip install pandas==2.2.0
+          
+      - run: pip install pandas==2.2.0 thefuzz
+      
       - run: python clean_data.py
+      
       - run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add cleaned_places.json
-          git commit -m "تم تنظيف الملف بنجاح" || echo "لا يوجد تغيير"
+          git commit -m "تم تنظيف الملف بالذكاء الاصطناعي بنجاح" || echo "لا يوجد تغيير"
           git push
-
